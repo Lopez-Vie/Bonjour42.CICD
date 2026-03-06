@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Bonjour42.CICD.Test/Bonjour42.CICD.Test.csproj" />
+  <Project Path="Bonjour42CICDApi/Bonjour42.CICD.Api.csproj" />
+</Solution>

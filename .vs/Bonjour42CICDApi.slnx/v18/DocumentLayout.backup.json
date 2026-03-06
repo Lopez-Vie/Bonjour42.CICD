@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stgadmin\\Desktop\\Codeur-2025\\13.Docker\\Bonjour42CICDApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9228CC7A-0938-43FB-8147-C18309C53DA2}|Bonjour42.CICD.Test\\Bonjour42.CICD.Test.csproj|c:\\users\\stgadmin\\desktop\\codeur-2025\\13.docker\\bonjour42cicdapi\\bonjour42.cicd.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9228CC7A-0938-43FB-8147-C18309C53DA2}|Bonjour42.CICD.Test\\Bonjour42.CICD.Test.csproj|solutionrelative:bonjour42.cicd.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9228CC7A-0938-43FB-8147-C18309C53DA2}|Bonjour42.CICD.Test\\Bonjour42.CICD.Test.csproj|c:\\users\\stgadmin\\desktop\\codeur-2025\\13.docker\\bonjour42cicdapi\\bonjour42.cicd.test\\bonjour42.cicd.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9228CC7A-0938-43FB-8147-C18309C53DA2}|Bonjour42.CICD.Test\\Bonjour42.CICD.Test.csproj|solutionrelative:bonjour42.cicd.test\\bonjour42.cicd.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EFFE9C-12EA-45A1-A070-384BEAA10683}|Bonjour42CICDApi\\Bonjour42.CICD.Api.csproj|c:\\users\\stgadmin\\desktop\\codeur-2025\\13.docker\\bonjour42cicdapi\\bonjour42cicdapi\\services\\mathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EFFE9C-12EA-45A1-A070-384BEAA10683}|Bonjour42CICDApi\\Bonjour42.CICD.Api.csproj|solutionrelative:bonjour42cicdapi\\services\\mathservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EFFE9C-12EA-45A1-A070-384BEAA10683}|Bonjour42CICDApi\\Bonjour42.CICD.Api.csproj|c:\\users\\stgadmin\\desktop\\codeur-2025\\13.docker\\bonjour42cicdapi\\bonjour42cicdapi\\controllers\\welcome42.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EFFE9C-12EA-45A1-A070-384BEAA10683}|Bonjour42CICDApi\\Bonjour42.CICD.Api.csproj|solutionrelative:bonjour42cicdapi\\controllers\\welcome42.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 503,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bonjour42.CICD.Test",
+              "DocumentMoniker": "C:\\Users\\stgadmin\\Desktop\\Codeur-2025\\13.Docker\\Bonjour42CICDApi\\Bonjour42.CICD.Test\\Bonjour42.CICD.Test.csproj",
+              "RelativeDocumentMoniker": "Bonjour42.CICD.Test\\Bonjour42.CICD.Test.csproj",
+              "ToolTip": "C:\\Users\\stgadmin\\Desktop\\Codeur-2025\\13.Docker\\Bonjour42CICDApi\\Bonjour42.CICD.Test\\Bonjour42.CICD.Test.csproj",
+              "RelativeToolTip": "Bonjour42.CICD.Test\\Bonjour42.CICD.Test.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T14:33:55.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\stgadmin\\Desktop\\Codeur-2025\\13.Docker\\Bonjour42CICDApi\\Bonjour42.CICD.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Bonjour42.CICD.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\stgadmin\\Desktop\\Codeur-2025\\13.Docker\\Bonjour42CICDApi\\Bonjour42.CICD.Test\\UnitTest1.cs",
+              "RelativeToolTip": "Bonjour42.CICD.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T14:31:32.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathService.cs",
+              "DocumentMoniker": "C:\\Users\\stgadmin\\Desktop\\Codeur-2025\\13.Docker\\Bonjour42CICDApi\\Bonjour42CICDApi\\Services\\MathService.cs",
+              "RelativeDocumentMoniker": "Bonjour42CICDApi\\Services\\MathService.cs",
+              "ToolTip": "C:\\Users\\stgadmin\\Desktop\\Codeur-2025\\13.Docker\\Bonjour42CICDApi\\Bonjour42CICDApi\\Services\\MathService.cs",
+              "RelativeToolTip": "Bonjour42CICDApi\\Services\\MathService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T14:13:13.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Welcome42.cs",
+              "DocumentMoniker": "C:\\Users\\stgadmin\\Desktop\\Codeur-2025\\13.Docker\\Bonjour42CICDApi\\Bonjour42CICDApi\\Controllers\\Welcome42.cs",
+              "RelativeDocumentMoniker": "Bonjour42CICDApi\\Controllers\\Welcome42.cs",
+              "ToolTip": "C:\\Users\\stgadmin\\Desktop\\Codeur-2025\\13.Docker\\Bonjour42CICDApi\\Bonjour42CICDApi\\Controllers\\Welcome42.cs",
+              "RelativeToolTip": "Bonjour42CICDApi\\Controllers\\Welcome42.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T14:05:08.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

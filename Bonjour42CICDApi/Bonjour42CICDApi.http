@@ -1,0 +1,6 @@
+@Bonjour42CICDApi_HostAddress = http://localhost:5058
+
+GET {{Bonjour42CICDApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
