@@ -1,0 +1,49 @@
+# .github/workflows/ci.yml
+name: Test and Build .NET
+
+on: [workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Verification des fichiers du runner
+        run: ls -a -l
+
+      - name: Clone du projet dans le runner
+        uses: actions/checkout@v4
+
+      - name: Verification des fichiers après le checkout
+        run: ls -a -l
+
+      - name: Installation de l'environnement .NET
+        uses: actions/setup-dotnet@v5.2.0
+        with:
+          dotnet-version: 10.x
+
+      - name: Message de succès de l'installation
+        run: echo "✅ Environnement .NET installé avec succès !"
+
+      - name: Lancement des tests unitaires
+        run: dotnet test 
+        
+      - name: Buildation du projet
+        run: dotnet build 
+        
+      - name: Message de succès du build
+        run: echo "✅ Build réalisé avec succès !"
+
+      - name: Mailage en cas de foirage du testage
+        uses: JaSiLez/smtp-notifier@main
+        with:
+          server_address: ${{ vars.SMTP_SERVER }}
+          server_port: ${{ vars.SMTP_PORT }}
+          secure: true
+          from: ${{ secrets.FROM_EMAIL }}
+          to: digitalcity@yopmail.com
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "🚀 Deployment Good !"
+          html_body: "<h1>Your deployment is MAGNIFICOOOOO 💥</h1>"
+

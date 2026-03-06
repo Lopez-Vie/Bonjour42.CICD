@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l5ZWUQeHlCA=",
+  "dgSpecHash": "XXCPJYeNLBI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\stgadmin\\Desktop\\Codeur-2025\\13.Docker\\Bonjour42CICDApi\\Bonjour42.CICD.Test\\Bonjour42.CICD.Test.csproj",
+  "projectFilePath": "C:\\Users\\stgadmin\\Desktop\\Bonjour42CICDApi\\Bonjour42.CICD.Test\\Bonjour42.CICD.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stgadmin\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\stgadmin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",

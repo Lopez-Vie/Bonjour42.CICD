@@ -1013,11 +1013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stgadmin\\Desktop\\Codeur-2025\\13.Docker\\Bonjour42CICDApi\\Bonjour42.CICD.Test\\Bonjour42.CICD.Test.csproj",
+      "projectUniqueName": "C:\\Users\\stgadmin\\Desktop\\Bonjour42CICDApi\\Bonjour42.CICD.Test\\Bonjour42.CICD.Test.csproj",
       "projectName": "Bonjour42.CICD.Test",
-      "projectPath": "C:\\Users\\stgadmin\\Desktop\\Codeur-2025\\13.Docker\\Bonjour42CICDApi\\Bonjour42.CICD.Test\\Bonjour42.CICD.Test.csproj",
+      "projectPath": "C:\\Users\\stgadmin\\Desktop\\Bonjour42CICDApi\\Bonjour42.CICD.Test\\Bonjour42.CICD.Test.csproj",
       "packagesPath": "C:\\Users\\stgadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stgadmin\\Desktop\\Codeur-2025\\13.Docker\\Bonjour42CICDApi\\Bonjour42.CICD.Test\\obj\\",
+      "outputPath": "C:\\Users\\stgadmin\\Desktop\\Bonjour42CICDApi\\Bonjour42.CICD.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1038,8 +1038,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\stgadmin\\Desktop\\Codeur-2025\\13.Docker\\Bonjour42CICDApi\\Bonjour42CICDApi\\Bonjour42.CICD.Api.csproj": {
-              "projectPath": "C:\\Users\\stgadmin\\Desktop\\Codeur-2025\\13.Docker\\Bonjour42CICDApi\\Bonjour42CICDApi\\Bonjour42.CICD.Api.csproj"
+            "C:\\Users\\stgadmin\\Desktop\\Bonjour42CICDApi\\Bonjour42CICDApi\\Bonjour42.CICD.Api.csproj": {
+              "projectPath": "C:\\Users\\stgadmin\\Desktop\\Bonjour42CICDApi\\Bonjour42CICDApi\\Bonjour42.CICD.Api.csproj"
             }
           }
         }

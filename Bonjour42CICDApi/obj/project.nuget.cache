@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5+zQQDExwyE=",
+  "dgSpecHash": "+UE+WQpguyE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\stgadmin\\Desktop\\Codeur-2025\\13.Docker\\Bonjour42CICDApi\\Bonjour42CICDApi\\Bonjour42.CICD.Api.csproj",
+  "projectFilePath": "C:\\Users\\stgadmin\\Desktop\\Bonjour42CICDApi\\Bonjour42CICDApi\\Bonjour42.CICD.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stgadmin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
     "C:\\Users\\stgadmin\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
